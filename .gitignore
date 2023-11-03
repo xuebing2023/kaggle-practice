@@ -2,3 +2,5 @@
 *.zip
 *.parquet
 *.pkl
+__pycache__/**
+optiver-trading-at-the-close/optiver2023/
